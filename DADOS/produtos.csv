@@ -1,0 +1,11 @@
+ID_Produto,Nome_Produto,Categoria,Preco_Unitario,Custo_Unitario
+1,"TV 40""",Eletrônicos,2000,1500
+2,Geladeira,Eletrodomésticos,2500,1800
+3,Micro-ondas,Eletrodomésticos,800,600
+4,Máquina de Lavar,Eletrodomésticos,2200,1600
+5,Ar-condicionado,Eletrônicos,1800,1400
+6,Liquidificador,Eletroportáteis,200,120
+7,Notebook,Eletrônicos,3500,2700
+8,Smartphone,Eletrônicos,2500,1900
+9,Cafeteira,Eletroportáteis,300,180
+10,Ventilador,Eletroportáteis,150,100
