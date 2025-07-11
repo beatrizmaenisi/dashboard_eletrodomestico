@@ -21,3 +21,5 @@ Vou listar os tipos de gráficos que adicionei no meu dashboard:
 - Gráfico de rosca: mostra o percentual de vendas por região;
 - Gráfico de pizza: mostra a quantidade de vendas por categoria;
 - Gráfico de barras empilhadas: mostra a quantidade vendida por produto.
+
+![Image](https://github.com/user-attachments/assets/1b678818-d38b-43db-a105-547af7c8c0f7)
